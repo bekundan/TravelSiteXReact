@@ -1,0 +1,26 @@
+[
+    {
+        "img":"../assets/images/travelpic.jpg",
+        "alt":"Vanish Canal",
+        "name":"Love Italy",
+        "button":"View Destination"
+    },
+    {
+        "img":"../assets/images/travelpic2.jpg",
+        "alt":"Train Beep",
+        "name":"Beauty Span",
+        "button":"View Destination"
+    },
+    {
+        "img":"../assets/images/travelpic3.jpg",
+        "alt":"Train Beep",
+        "name":"Mountain Trekking",
+        "button":"View Destination"
+    },
+    {
+        "img":"../assets/images/travelpic4.jpg",
+        "alt":"Train Beep",
+        "name":"Bali",
+        "button":"View Destination"
+    }
+]
